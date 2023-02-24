@@ -1,3 +1,7 @@
+# Figma design URL
+
+https://www.figma.com/file/FvLuicRXBjtj5AjfLNoNL6/Mobile-Screen-Designs?node-id=58%3A44&t=lHl6u2tO1LyADFKr-1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
